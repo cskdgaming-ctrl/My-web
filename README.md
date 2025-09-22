@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="title" content="SKD Gaming - Official Website">
+<meta name="description" content="Welcome to SKD Gaming! Watch gaming videos, tutorials and live streams on my YouTube channel.">
+<meta name="keywords" content="SKD Gaming, SKD YouTube, Gaming Channel, Free Fire, PUBG, Minecraft">
+<meta name="robots" content="index, follow">
   <title>SKD Gaming Channel</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>

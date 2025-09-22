@@ -64,9 +64,9 @@
   <!-- Contact -->
   <section id="contact" class="contact">
     <h2>📞 Contact & Social Links</h2>
-    <p>Email: skdgaming@example.com</p>
+    <p>Email: cskdgaming@gmail.com</p>
     <p>Discord: <a href="#" target="_blank">Join Discord</a></p>
-    <p>Instagram: <a href="#" target="_blank">@skdgaming</a></p>
+    <p>Instagram: <a href="https://www.instagram.com/skd_gaming_channel?igsh=Y2FvZ2M1M20xbHJ0" target="_blank">@skdgaming</a></p>
     <p>Twitter: <a href="#" target="_blank">@skdgaming</a></p>
   </section>
 

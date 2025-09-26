@@ -10,6 +10,8 @@
   <meta name="google-adsense-account" content="ca-pub-5150715338279936">
   <title>SKD Gaming Channel</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-adsense-account" content="ca-pub-5150715338279936">
+  </head>
   <style>
     body { margin: 0; font-family: Arial, sans-serif; background: #111; color: #eee; }
     header { background: #222; padding: 15px 20px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 1000; }

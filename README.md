@@ -1,6 +1,7 @@
 
 <html lang="en">
 <head>
+  <meta name="google-adsense-account" content="ca-pub-5150715338279936">
   <meta charset="UTF-8">
   <meta name="title" content="SKD Gaming - Official Website">
 <meta name="description" content="Welcome to SKD Gaming! Watch gaming videos, tutorials and live streams on my YouTube channel.">

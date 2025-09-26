@@ -25,6 +25,8 @@
   <meta name="google-site-verification" content="F8yoTesmkpFuSOFRVVEKLt5tgG4eSScuT_7YnWydedU" />
 </head>
 <body>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5150715338279936"
+     crossorigin="anonymous"></script>
 
   <!-- Header / Navigation -->
   <header>

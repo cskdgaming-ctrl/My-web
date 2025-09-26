@@ -7,6 +7,7 @@
 <meta name="description" content="Welcome to SKD Gaming! Watch gaming videos, tutorials and live streams on my YouTube channel.">
 <meta name="keywords" content="SKD Gaming, SKD YouTube, Gaming Channel, Free Fire, PUBG, Minecraft">
 <meta name="robots" content="index, follow">
+  <meta name="google-adsense-account" content="ca-pub-5150715338279936">
   <title>SKD Gaming Channel</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
